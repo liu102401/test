@@ -1,2 +1,2 @@
-#incldude<stdio.h>
+#incldude<sttio.h>
 abc
